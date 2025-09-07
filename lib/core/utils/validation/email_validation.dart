@@ -16,7 +16,6 @@ String? validateEmail(String? email) {
   // - Must contain '@' symbol
   // - Must have valid domain name after '@'
   // - Domain must have at least one period
-  // - Top-level domain must be 2-6 characters long
   //
   // Example valid emails:
   // - user@example.com
